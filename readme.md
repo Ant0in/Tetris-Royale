@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-dark_green.svg" alt="License Badge"/>
   <img src="https://img.shields.io/badge/Language-C++-blue" alt="Language Badge"/>
   <img src="https://img.shields.io/badge/School-ULB-yellow" alt="School Badge"/>
-  <img src="https://gitlab.ulb.be/infof209/2024-25/group-1/badges/main/pipeline.svg" alt="Pipeline Badge"/>
+  <img src="https://github.com/Ant0in/group-1/actions/workflows/ci.yml/badge.svg" alt="Build Status"/>
 </div>
 
 # 🎮 Tetris Royale
